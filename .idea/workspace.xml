@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4aa8888-7b95-46b8-8313-6ba41113f07b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/45degreee_fabric.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/doll_quilt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dummythumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fabric_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/farmer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flowerpatch_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flowerpatch_background_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flowerpatch_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lap_quilt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pillow_quilt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pin_cushion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pin_cushion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pin_cushion.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/preview_thumbnails/img_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/queen_quilt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/satinweave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/spoonflower_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/test_fabric1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/test_fabric2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/twin_quilt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/patterns/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/patterns/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/patterns/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/flowerpatch_favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_disable-warnings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_visual-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/1a7551431229c9c8ecbaec0d7d4fc16f4733b1ec/_new-breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/1a7551431229c9c8ecbaec0d7d4fc16f4733b1ec/_private.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_direction-context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_display-context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_fill-parent.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_omega.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_outer-container.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_pad.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_private.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_shift.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_span-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_to-deprecate.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_visual-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_asset-pipeline.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_prefixer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_px-to-em.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_convert-units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_font-source-declaration.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_gradient-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_is-num.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-angle-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-gradient-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-side-corner-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-arg-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-gradient-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_render-gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_shape-size-stripper.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/542fb94acf529554dd2f3251560755eefd77f974/_str-to-num.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/85af9ece723dd1b01aaa38643105a7c34bd2b754/font-awesome.css.erbc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_backface-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_background-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_border-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_calc.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_flex-box.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_font-feature-settings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_hidpi-media-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_hyphens.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_image-rendering.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_keyframes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_linear-gradient.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_perspective.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_placeholder.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_radial-gradient.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_selection.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_text-decoration.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_user-select.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/application.css.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/choose-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/edit-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/fabric-modal.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/nav-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/next-steps.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/preview-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/progress.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/welcome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_assign.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_color-lightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_contains.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_is-length.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_is-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_modular-scale.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_px-to-em.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_px-to-rem.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_strip-units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_tint-shade.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_transition-property-name.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_unpack.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/c4ce714b6577f99dc8a059c5e603017338f62a1d/_bourbon-deprecated-upcoming.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/c4ce714b6577f99dc8a059c5e603017338f62a1d/_bourbon.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_directional-values.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_font-family.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_html5-input-types.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_position.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_prefixer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_retina-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_timing-functions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_triangle.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/d142dda327e04e888aa5974204730e55979f371d/_word-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/dd8caf0927171e35c3f1bd8bd5bf459d65e0a52d/_neat-helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sass/dd8caf0927171e35c3f1bd8bd5bf459d65e0a52d/_neat.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/01201795ba9100e4bdff3e156fa34f0f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0167c5093b68bedd6a6850f1c8724637" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0207e0bd1c98610ce80fc8e3c602b112" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/02c0b79f239d237027cf2db1d9015d3d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/044a9dcb949b54a126a5486802aeb187" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0516eff6c9385703f8ca43ee0735082f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/052b391f09db6e26a47791f462ac804b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/08d07754cdf34d56811bfcfe0431b46b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/09917f1e8ea36acb36a31ccb34bcb4a3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0b9f1527d01ab86c3d85086117883320" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0bb72ac987f27cdd44ebd4aeb18d95a7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0bd41ebe723bb3ed394671d0520e1388" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0e70ebbf7075fe8011fc64c32cc9afeb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0fb644322423e146b1fb986449b11976" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/108acd577f1c9105de7d9bf105b281ad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/116ee571c1728ca6a734263e4b49fc86" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1211835b5b85a9c616d7e0d978d4169f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1289da184efc4dc8f21947412b846086" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/145adc0634a48eb27b95665c2979ac91" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/18d799c768a42f13bf7b8f04bb69ffea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1aebe4228437a695799c4b46998b1159" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1c4f71b9405e96fc7b9abcb4a8c0d0fc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/1ff4867ee1f9ae5de1a0533dab3f5cb0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2218e142abab07e152522f98fb41bf7c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2257d370662bf88326c946563c37d969" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2312be906e2d423e24ad5c78ab224876" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/23b718bc8857bc7948dce77d4aaaba79" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2638e67942280eed73330ed049d1b3ab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/268868f50820ee53c64e33e9613dd71e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2756e6cbda2c8ea30ffe41a5f2c57d71" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/27dcaaeaca03564c7874d4228e29af2d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/286af9a93e3616f98b46c3a7864ec2f1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/28fa3ccc10fa5a01bfd256db4f38e6ac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2943389c3012465d93e4768c42476d4a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2fcd8be8bea231ece491a7e202386257" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2fe32d49b49fd27cf1e91f2832f46baa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/303b6db0254b151bf37c656962b6ad95" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/307fe22318e67b1f63532f76752767ce" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/311448b3e5c0e328d5cad45051e7c31c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/34998d9da813de545818926ebabc7a29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/34c73d91e7d8a69546e637aaa3f8590a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/385be23600d3061dbb67469772db9c1b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3955b85348d56d53fc5bec60acd78e9b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/397390c8ce666b4c96f2642fd902da5b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3a92cbc66b5436b1f28b74d6ebfc875e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3d1227d781f4e1aa2897e42f35d15cb3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3d9a8f01f562bece6482170a69258b4d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3ef088d6b6e712ad769b544bcf5e9121" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/3f481f24e56bfefdb1239ea24ea726bc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/43143af819eda517401b40c35d5ac9e5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4441ef4a046df129d739515cb672dd89" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/44c3a9cfa8df42d9fc4a9a328d146d8c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4665a3a33c9bb1bf99c572457992042d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/46c62603538a2e74a047b767ef860ac8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4c2bf22dbea182e693299276709e26b1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4e71709590699a9fee349c49ca1c0054" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/504fd69c0553c9b56ad1d1d860a9433c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/52002af3269fdc24575c0cfd5047be18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/533f620d307135cf561ded16f9b358b3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/54c0c1161fe57d5ab2db7a87764ac426" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5545e0cf89680dc2e96af6b554fcaae9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/55a19a815e227dba63761a21cdbea251" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/578448919741a802a9724b4c2ddf8e5e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/59a653cd95fbd7a9a89aabce65593752" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5ad576dc1791b6e44c18bf177543473c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5bc457fa0d62b97a1474574f93207aa0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5c82111f92e15e1114fac44d870f8b98" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5ca522a29a79e82cea43c37514b9a496" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5ec8a5cdd5f30c744057ea00c20937e0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5ef552edd19b2bdf151ec3d1176c287e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/628506d37cea89bc3c8478a70d3beb74" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/650c0154e67e6308e65ede662d4c63eb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/679f7ccf8e017de59c78ab290c0de348" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6864b2304465fd8aff747dfbf439ee2f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6ac53fab9dbe854da8ecd9e5fb4aa56c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6c6912143e60e2cda2478d3b8e43858c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6da4f2b97a7b1c424a8786ebed3dfa9d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6e64a836a218edf7f4953d1296988b37" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6e9b7e3b7a5d3958aac72a9efa836a88" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6eb33a2c55c00bddc82bd6e121348fc7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/71f70e580353268f7b8825cd9ea2818f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/742a9abba49963d23460f86bf23fb407" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/753535e78fb72ffacdde8b122fa35423" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/784073e0e6caea14df6631e41e261ddd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/78617f026f519dde3adb272ea09d4893" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/788f32e931199f90ddcc4fb4444fe64d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/7bafcb256e619aee7808f0ef88e02e4b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/82660cf27dae5b3cd6e90c5e3e84a65f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/83c6f048e01925ba9f46068de692e967" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/849b618dfe2a786d97e7297a767b822a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/85e13dd21a99b578004dbd2b82806be1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8ab512c9b33ac90e699b73469d71f061" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8d114b36b1eb828c0138ad9af03ebedb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8d6b88602a4a5afff48c2888b9b66f3a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/93d112dcf09db98bbb4dae686d8134a0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/951d449638d9829a1de48a732c2ed795" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9d61bc62a67d7ba22f33d1b2c9b18a01" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9ebe9d4b0434ba8a3a28a29230bb26a7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9f0902c766a7e3fededcdcb9650526da" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9f8c87f37f1900b81b30c7ef356ac1c9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9fc31bbee316caa307a7d35b03325c7a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/9fc8201f5eed2ceb74a6f28a285f1e37" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a001a3ab5c70864d716f5a251d84ef50" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a0b4b4c058f94a5952deab0e998918a1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a2820831e5ba0aa4815dd568ca46042a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a41d88ac66cb51260fff0a7b8931834f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a7e354699ffc189a825d952984d68bf3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a8acb302c5880b24d3dee63f84516299" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a8f649a3323a2d9fb572968cbe54752a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a9ab0cb9ad9dcac34336a05e0588bb4f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ab975594f00ebd7d2842670ea10bfe9f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/abafb53e32808ac14d725a4d48ebb8fc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ad8af26108bf271d75b1c000d7686fe8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ade74cc9f97294c9e63f71b6a5ec549c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b0e6acaf1e7cb8d3f489e8c402161223" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b31045002c0b6badc5d7483f5be9d0e9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b36c6cbd4e1b1f32b75ae551d0a2d332" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b45890d98668c132fee5cae4b15320d9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b59f2a82853f974de21e871b492bf49b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b60ee2362d189d477533ef2c4668c401" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b703b01dac58a6d1ec387a35eac5dcf3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b93403df2b04917d932f13015bd683a8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b93e9cc0c2240946e2df24178a86920a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bc2eda1610a4cd6a7ade093f35325fca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bcca522c6302f184f12fe0e8a7d7e71a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bec104fc2c483fb0be14892202759ec2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bf12fa4838e004c07f5115a88073012a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c13fc73ceafa45876a901b3e775b83ae" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c3068bbc8ede1c616bfb54f999ee20b2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c3e6051496b00ad88a4fe70d03e8443f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c5376f060f2e93d26e9248f24b402250" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c562907468fee8d0695b914415403899" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c74931cef15c4d9844511631a40e96ca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cc8432c368cf6f6d7e6a66870db2dca7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ccb02da8b58b753c7207b2999562b4cf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cd5a722d3aa9a5b0f1e4386b08a4012d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d2c619362c688085fa9d262103d624de" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d40b242b8bd73ca1c1867e8d74c5f549" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d6f06c10655d9c861c0c6b7b7967f4e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d7371709e974c8c49b5cf7fd83c156c1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/d9fc2ac23d3e59c60221326cff3f3c11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/da1bffc0eb700e2e8e82379245b17524" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/daa0e3c217673cb0ebb89d97438a1b80" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/db1144824713822f9193b3b7dc1b0b1c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/dc3f02b54a853efe9f97c80b871fd9fe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/dd207401b1e8c8301be3bc0fc88a5bb7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/de7c63ac5e5d0a0032395b2084cf5a63" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/dfcd9fee16c3899343cee152f976717b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e18d2b9ba43d4c30c6fa2cb6e3ee245a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e263e40d175c7f23c63b7b468d000e4a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e28c58a6ee7adc6773f433ebebaf4a09" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e35d75a3d1250af1ce22d22246e8f217" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e41eaba301f8c74875ba22c8a9e909ae" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e513fc6f5d7871625211acc556df740d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e743f79439b74842b620bcbc2dad3e7d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e7fc15a041685e362ae883a7d8b6969b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e861573fb431988ec7a2fa8bd7c7fcec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e91f02f2662a3f32bb0950f1c8e9e490" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e99d17505af6ca4d2035e70ff8347a15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/eb5568ca89ef6250abd58ba688a4429c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/eb67a8c2ef8bcc9df709059574b7d1f7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/ec65a04a31498c6dc9d8392a87fa5964" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f04a3c172c8f7dfdc1bab38314dd2cb2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f130a74fb89881d2612722fbaf2eaec0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f205e51c2c7406998f8ab04fd6b6a9a2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f2bf4ae4831832abc7f05b2bf1d9729b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f3e2f7c50f08d990973383d11004aab8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f4339b9f63bd2fdd29638b6340be6dc0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f78a738a54982e39f7e3a5fb5533f69e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7a9980f197d325a5d3ca0a2e1bc88fe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f82870cc016e252e1d1877ae816f9b29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/fe0918ba9934e0fe7298b4660918515b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/fe0ebc3d2db816e5ba3eabec49dcb6e4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_disable-warnings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/0e2941a71f335963649eab70f1142fc5c385f4dc/_visual-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/1a7551431229c9c8ecbaec0d7d4fc16f4733b1ec/_new-breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/1a7551431229c9c8ecbaec0d7d4fc16f4733b1ec/_private.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_direction-context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_display-context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_fill-parent.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_omega.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_outer-container.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_pad.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_private.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_shift.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_span-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_to-deprecate.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/468af9abb80c29231c6db2feaa71565f8e01b096/_visual-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_asset-pipeline.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_prefixer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/4edf7cd0b8c4580a5fa089cd776deec7bac3bafe/_px-to-em.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_convert-units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_font-source-declaration.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_gradient-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_is-num.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-angle-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-gradient-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_linear-side-corner-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-arg-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-gradient-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_radial-positions-parser.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_render-gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_shape-size-stripper.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/542fb94acf529554dd2f3251560755eefd77f974/_str-to-num.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/85af9ece723dd1b01aaa38643105a7c34bd2b754/font-awesome.css.erbc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_backface-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_background-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_border-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_calc.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_flex-box.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_font-feature-settings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_hidpi-media-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_hyphens.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_image-rendering.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_keyframes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_linear-gradient.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_perspective.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_placeholder.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_radial-gradient.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_selection.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_text-decoration.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/8bc2168fbdc29e5a6267b879c7979cae18f83f3a/_user-select.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/application.css.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/choose-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/edit-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/fabric-modal.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/next-steps.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/preview-project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/progress.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/a4d243f9d0085d922bdae212612ccd9bd4e0df96/welcome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_assign.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_color-lightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_contains.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_is-length.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_is-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_modular-scale.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_px-to-em.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_px-to-rem.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_strip-units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_tint-shade.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_transition-property-name.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/ad1ebc23a8788197bc81c86d16654871c6e52ac7/_unpack.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/c4ce714b6577f99dc8a059c5e603017338f62a1d/_bourbon-deprecated-upcoming.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/c4ce714b6577f99dc8a059c5e603017338f62a1d/_bourbon.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_directional-values.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_font-family.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_html5-input-types.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_position.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_prefixer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_retina-image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_timing-functions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_triangle.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/d142dda327e04e888aa5974204730e55979f371d/_word-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/dd8caf0927171e35c3f1bd8bd5bf459d65e0a52d/_neat-helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sass/dd8caf0927171e35c3f1bd8bd5bf459d65e0a52d/_neat.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/0167c5093b68bedd6a6850f1c8724637" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/052b391f09db6e26a47791f462ac804b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/0bd41ebe723bb3ed394671d0520e1388" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/145adc0634a48eb27b95665c2979ac91" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/1aebe4228437a695799c4b46998b1159" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/1ff4867ee1f9ae5de1a0533dab3f5cb0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/286af9a93e3616f98b46c3a7864ec2f1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/28fa3ccc10fa5a01bfd256db4f38e6ac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/2f5173deea6c795b8fdde723bb4b63af" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/303b6db0254b151bf37c656962b6ad95" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/311448b3e5c0e328d5cad45051e7c31c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/3d1227d781f4e1aa2897e42f35d15cb3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/3f481f24e56bfefdb1239ea24ea726bc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/4441ef4a046df129d739515cb672dd89" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/504fd69c0553c9b56ad1d1d860a9433c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/5545e0cf89680dc2e96af6b554fcaae9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/55a19a815e227dba63761a21cdbea251" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/59a653cd95fbd7a9a89aabce65593752" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/6da4f2b97a7b1c424a8786ebed3dfa9d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/742a9abba49963d23460f86bf23fb407" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/7bafcb256e619aee7808f0ef88e02e4b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/8ab512c9b33ac90e699b73469d71f061" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/9d61bc62a67d7ba22f33d1b2c9b18a01" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/9ebe9d4b0434ba8a3a28a29230bb26a7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/ad8af26108bf271d75b1c000d7686fe8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/b59f2a82853f974de21e871b492bf49b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/bcca522c6302f184f12fe0e8a7d7e71a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/bec104fc2c483fb0be14892202759ec2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/bf12fa4838e004c07f5115a88073012a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/c13fc73ceafa45876a901b3e775b83ae" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/cffd775d018f68ce5dba1ee0d951a994" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/d2c619362c688085fa9d262103d624de" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/dfcd9fee16c3899343cee152f976717b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/e35d75a3d1250af1ce22d22246e8f217" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/e91f02f2662a3f32bb0950f1c8e9e490" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/f130a74fb89881d2612722fbaf2eaec0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/f3e2f7c50f08d990973383d11004aab8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/test/sprockets/f7cbd26ba1d28d48de824f0e94586655" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/flowerpatche2e.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMAGE_ATTRIBUTION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test10.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test12.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test13.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test14.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test15.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test16.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test17.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test18.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test7.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/blocks/test9.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flowerpatch_logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/_preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/_progress-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/choose-project.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fake-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/next-steps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/spoonflower-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/patterns/spoonflower-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/projects/doll.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/projects/lap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/projects/queen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/projects/singlepatch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/projects/twin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/choose-project.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/edit-project.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fabric-modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/next-steps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/preview-project.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/api/v1/blocks_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/api/v1/patterns_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/project_templates_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/quilts_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/svg_parsers_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/block_templates_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/project_templates_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/quilts_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/block.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/block_template.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/fabric.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/patch.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/pattern.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/png_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/project_template.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/quilt.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/svg_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/project_templates/choose_project.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/quilts/choose_block.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/quilts/edit_project.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/quilts/next_steps.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/quilts/preview_project.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/quilts/welcome.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/shared/_progress.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/svg_parsers/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/svg_parsers/test_garbage.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/add_block.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/_bourbon-deprecated-upcoming.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/_bourbon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_directional-values.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_ellipsis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_font-family.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_html5-input-types.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_retina-image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_timing-functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_triangle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/addons/_word-wrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_appearance.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_backface-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_background-image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_border-image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_box-sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_calc.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_flex-box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_font-feature-settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_hidpi-media-query.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_hyphens.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_image-rendering.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_keyframes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_linear-gradient.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_perspective.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_placeholder.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_radial-gradient.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_selection.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_text-decoration.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_transform.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/css3/_user-select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_assign.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_color-lightness.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_contains.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_is-length.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_is-size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_modular-scale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_px-to-em.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_px-to-rem.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_strip-units.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_tint-shade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_transition-property-name.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/functions/_unpack.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_convert-units.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_font-source-declaration.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_gradient-positions-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_is-num.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_linear-angle-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_linear-gradient-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_linear-positions-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_linear-side-corner-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_radial-arg-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_radial-gradient-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_radial-positions-parser.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_render-gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_shape-size-stripper.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/helpers/_str-to-num.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/settings/_asset-pipeline.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/settings/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bourbon/settings/_px-to-em.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circle.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150317154558_create_quilts.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150317154749_create_block_templates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150317154828_create_patch_templates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150317154939_create_project_templates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150317155002_create_patches.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150318150245_simplify_database.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150319153753_add_block_template.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150319174932_add_complete_status.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150323211525_add_featured_quilt_fix_id_string.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150323212318_fix_id_this_time.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150323212518_add_correct_id_col.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150327142914_add_size_to_project_templates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20150401060738_add_default.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/test.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycomments" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mynotes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/_neat-helpers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/_neat.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/functions/_new-breakpoint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/functions/_private.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_box-sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_direction-context.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_display-context.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_fill-parent.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_omega.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_outer-container.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_pad.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_private.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_shift.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_span-columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_to-deprecate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/grid/_visual-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/settings/_disable-warnings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/settings/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neat/settings/_visual-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svglongline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/project_templates_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/quilts_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/project_templates.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/quilts.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/project_template_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/colpick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/snap.svg-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/snap.svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/colpick.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/conf.js" afterPath="$PROJECT_DIR$/app/e2e/conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/helpers/data/dollQuiltData.js" afterPath="$PROJECT_DIR$/app/e2e/helpers/data/dollQuiltData.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/helpers/url.js" afterPath="$PROJECT_DIR$/app/e2e/helpers/url.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/chooseBlock.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/chooseBlock.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/chooseProject.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/chooseProject.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/designBlock.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/designBlock.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/nextSteps.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/nextSteps.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/previewProject.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/previewProject.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pageObjects/welcome.page.js" afterPath="$PROJECT_DIR$/app/e2e/pageObjects/welcome.page.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/specs/dollQuilt.spec.js" afterPath="$PROJECT_DIR$/app/e2e/specs/dollQuilt.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="flowerpatche2e.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="flowerpatche2e" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2332815">
+              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flowerpatche2e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flowerpatche2e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flowerpatche2e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4aa8888-7b95-46b8-8313-6ba41113f07b" name="Default" comment="" />
+      <created>1452976395471</created>
+      <option name="number" value="Default" />
+      <updated>1452976395471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="763" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2332815">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

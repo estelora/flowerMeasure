@@ -1,0 +1,233 @@
+/*------------------------------------*\
+    #FABRIC-MODAL
+\*------------------------------------*/
+.fabric-modal {
+  @include transition(all 0.5s ease);
+  visibility: hidden;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 2000;
+}
+.show {
+  visibility: visible;
+  opacity: 1;
+}
+.fabric-modal-box {
+  background: $white;
+  box-shadow: 0 5px 10px 2px gray;
+  height: 75%;
+  width: $max-width;
+  position: fixed;
+  top: 47%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.fabric-modal-content {
+  overflow: hidden;
+  height: 100%;
+}
+.close-fabric-modal-btn {
+  position: absolute;
+  top: -1.3em;
+  right: -1.1em;
+  opacity: 1;
+  visibility: visible;
+}
+.current-block,
+.fabric-modal-options,
+.final-block {
+  @include pad();
+  @include span-columns(3);
+  // No mouse / touch events occur in current block
+  pointer-events: none;
+  // set `pointer-events: auto;` to override this
+  display: inline-block;
+  svg {
+    width: 175px;
+    height: 100%;
+    box-shadow: $default-shadow;
+  }
+}
+.current-palette,
+.fabric-modal-results {
+  @include span-columns(9);
+  display: inline-block;
+  height: 210px;
+  padding-top: 11px;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  .fabric-preview {
+    margin: 10px;
+    width: 80px;
+    display: inline-block;
+  }
+}
+.fabric-modal-divider {
+  @include span-columns(12);
+  border: 0;
+  border-bottom: $default-border;
+}
+.fabric-modal-options {
+  height: 70%;
+  pointer-events: auto;
+  overflow-y: scroll;
+  position: relative;
+}
+.fabric-options-logo {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 2em;
+}
+.search-bar input {
+  margin: 1em 0 3em 0 !important;
+}
+.search-bar {
+  margin-top: 1em;
+}
+#picker {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 0;
+  height: 27px;
+  border-right: 120px solid #a2add7;
+  line-height: 27px;
+  cursor: pointer;
+  box-shadow: $default-shadow;
+  + button {
+    margin-left: 5px;
+    position: relative;
+  }
+  &:hover {
+    box-shadow: $hover-shadow;
+  }
+}
+.popular-search {
+  @include pad(0.5em);
+  margin-top: 1em;
+  border-top: 2px solid $seafoam-light;
+  border-bottom: 2px solid $seafoam-light;
+  outline: 2px solid $accent-text;
+  border: 1.5px dashed $seafoam-light;
+  background-color: $accent-text;
+  color: $white;
+  font-family: $serif;
+  font-weight: $thin;
+  font-size: 1em;
+  line-height: 0.5em;
+  box-shadow: $default-shadow;
+  cursor: pointer;
+  &:hover {
+    box-shadow: $hover-shadow;
+    transition: $transition;
+  }
+}
+/*------------------------------------*\
+    #COLOR-PICKER-MODAL
+\*------------------------------------*/
+.colpick {
+  height: 172px !important;
+  width: 170px !important;
+  position: absolute !important;
+  bottom: -20px !important;
+  z-index: 2000;
+  border-radius: 0 !important;
+  border: none;
+  box-shadow: $default-shadow !important;
+  background: $light-pure-gray !important;
+  &:hover {
+    box-shadow: $hover-shadow !important;
+    transition: $transition !important;
+  }
+}
+.colpick_color,
+.colpick_color_overlay1,
+.colpick_color_overlay2 {
+  outline: none !important;
+  width: 119px !important;
+}
+.colpick_hue {
+  left: 137px !important;
+  border: none !important;
+}
+.colpick_new_color {
+  width: 91% !important;
+}
+.colpick_field,
+.colpick_new_color,
+.colpick_hex_field {
+  display: none !important;
+}
+.color-search-bar {
+  position: relative;
+}
+#picker {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 0;
+  height: 27px;
+  border-right: 118px solid #a2add7;
+  line-height: 27px;
+  cursor: pointer;
+  box-shadow: $default-shadow;
+  + button {
+    margin-left: 5px;
+    position: relative;
+  }
+  &:hover {
+    box-shadow: $hover-shadow;
+    transition: $transition;
+  }
+}
+/*------------------------------------*\
+    #RESULTS-SECTION
+\*------------------------------------*/
+.fabric-modal-results {
+  height: 70%;
+  border-left: $default-border;
+  .card {
+    width: 21.7%;
+    height: 190px;
+  }
+}
+.fabric-modal-list {
+  margin-left: 15px;
+
+  .loading-spinner {
+    width: 200px;
+    height: 200px;
+    border-color: $accent-darkest;
+    position: absolute;
+    top: 52%;
+    left: 52%;
+  }
+}
+
+.error {
+  padding: 1.5em;
+  font-size: 1.2em;
+}
+.search-result {
+  padding: 0;
+  .fabric-img-container {
+    position: relative;
+    height: 135px;
+  }
+  .fabric-name-container {
+    overflow: auto;
+    height: 44px;
+    word-wrap: break-word;
+
+  }
+}

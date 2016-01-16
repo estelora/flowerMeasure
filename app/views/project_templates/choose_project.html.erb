@@ -1,0 +1,38 @@
+<%= render :partial => 'shared/progress', :locals => {:page => 1} %>
+
+<div class="project-view view-container">
+
+ <div class="project-list-container">
+   <ul class="project-list">
+     <% @projects.each do |project| %>
+     <li class="project-list-item"><a class="project-list-link" href="#<%= project.id %>"><%= project.name %></a></li>
+     <% end %>
+   </ul>
+ </div>
+
+ <div class="project-cards">
+   <% @projects.each do |project| %>
+    <%= link_to quilts_choose_block_path(quilt_id: params[:quilt_id], project_id: project.id), alt:"Get started with a project.name" do %>
+      <div id="<%= project.id %>" class="project-card paper-border <%= project.id %>">
+
+       <div class="project-card-img-container">
+         <!-- CHRISTEN: insert images of project type here [[once FE chooses images]] -->
+         <%= image_tag "#{project.example_thumb_url}", class:"project-card-img"%>
+       </div>
+       <div class="project-card-content">
+         <h2 class="project-card-name"><%= project.name %></h2>
+
+         <p class="project-card-copy"><%= project.description %></p>
+         <p class="project-card-copy"><%= project.directions_pdf_url %></p>
+
+       </div>
+
+      </div>
+    <% end %>
+   <% end %>
+   <div class="back-to-top">
+     <a class="project-list-link" href="#top-of-view"><i class="fa fa-arrow-circle-up"></i>&nbsp;Back to top</a>
+   </div>
+ </div>
+
+</div>
